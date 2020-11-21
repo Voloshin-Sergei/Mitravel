@@ -25,3 +25,16 @@ input[type="search"]::-webkit-search-results-button,
 input[type="search"]::-webkit-search-results-decoration {
   display: none;
 }
+
+.section-title {
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 700;
+  color: var(--dark-color);
+}
+
+.section-title--center {
+  text-align: center;
+  min-width: none;
+}
+
