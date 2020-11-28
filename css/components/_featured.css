@@ -65,6 +65,12 @@
 .blog-article__link {
   background-color: var(--neptun-color);
   display: inline-block;
+  transition: background-color 0.3s;
+}
+
+.blog-article__link:hover {
+  transition: background-color 0.3s;
+  background-color: var(--neptun-hover-color);
 }
 
 .featured__title {
