@@ -14,3 +14,5 @@
 @import "./components/_newsletter.css";
 @import "./components/_inspiration.css";
 @import "./components/_footer.css";
+
+@import "_media.css";
